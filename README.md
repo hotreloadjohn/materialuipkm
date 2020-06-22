@@ -1,3 +1,9 @@
+## [React] Simple Pokemon Pokedex App built using Material UI
+
+![](https://github.com/hotreloadjohn/materialuipkm/blob/master/poke1.JPG)
+
+![](https://github.com/hotreloadjohn/materialuipkm/blob/master/poke2.JPG)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
